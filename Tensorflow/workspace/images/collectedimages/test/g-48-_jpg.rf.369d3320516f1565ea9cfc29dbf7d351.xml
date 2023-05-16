@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>g-48-_jpg.rf.369d3320516f1565ea9cfc29dbf7d351.jpg</filename>
+	<path>g-48-_jpg.rf.369d3320516f1565ea9cfc29dbf7d351.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>G</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>60</xmin>
+			<xmax>211</xmax>
+			<ymin>293</ymin>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+</annotation>
